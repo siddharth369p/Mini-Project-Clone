@@ -1,0 +1,30 @@
+h1{
+    letter-spacing: 5px;
+    /* here px is stand for pixel */
+    text-align:center;
+    text-decoration: wavy underline red;
+    font-weight:800;
+   font-size: 25px;
+   font-family: impact;}
+h2{
+    text-align:end;
+    text-decoration:blue  line-through;
+    font-size: 25px;
+    letter-spacing:2px;
+    font-weight:  750;
+    font-family:georgia;
+}
+    
+    a{
+        text-decoration: none;
+}
+h3{
+    text-align:start;
+    text-decoration: double overline #00ffff;
+}
+p{
+    text-align:starts;
+    line-height:2.5;
+    font: size 400px;
+    font-family:impact;
+}
